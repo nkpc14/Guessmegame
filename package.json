@@ -1,0 +1,19 @@
+{
+  "name": "guess-me",
+  "version": "1.0.0",
+  "description": "Color Guessing Game",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Nitish Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-validator": "^6.5.0",
+    "mongoose": "^5.9.18",
+    "nodemon": "^2.0.4"
+  }
+}

@@ -1,0 +1,11 @@
+$primary: #5B7503;
+$light: #CDDC9A;
+$font-family-sans-serif: "Poppins", Arial, sans-serif;
+
+@import '../../node_modules/bootstrap/scss/bootstrap';
+@import '../../node_modules/bootstrap-vue/src/index.scss';
+
+.cursor-pointer {
+  cursor: pointer;
+}
+
